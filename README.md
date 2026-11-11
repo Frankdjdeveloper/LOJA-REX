@@ -1,3 +1,3 @@
 SITE REX EM CONSTRUÇÂO
 
-Acesse:  https://github.com/Frankdjdeveloper/LOJA-REX.git
+Acesse:  https://frankdjdeveloper.github.io/LOJA-REX/
